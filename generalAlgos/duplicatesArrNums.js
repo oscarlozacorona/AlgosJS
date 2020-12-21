@@ -38,4 +38,3 @@ const duplicates2 = (intArr) => {
 
 // duplicates([2,3,4,5,3,7,9,2,3,4,4]);
 duplicates2([2,3,4,5,7,9,2,3,4,4]);
-
