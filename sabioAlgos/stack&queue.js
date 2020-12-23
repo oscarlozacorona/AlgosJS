@@ -112,17 +112,6 @@ const print = (value) => {
 }
 
 const main = () => {
-	// stack = new Stack();
-	
-	// stack.push(24);
-	// stack.push(12);
-	// stack.push(48);
-	// stack.push(50);
-	// stack.push(48);
-
-	// while(!stack.empty()) {
-	// 	console.log(stack.pop());
-	// }
 
 	queue = new Queue();
 
